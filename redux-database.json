@@ -1,0 +1,65 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "taskTitle": "Create Project Diagrams",
+      "taskDateTime": "2021-07-16 9:30"
+    },
+    {
+      "id": 2,
+      "taskTitle": "Dispatch Cheques",
+      "taskDateTime": "2021-07-17 11:00"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "5c6a77d3-4362-45e8-b356-e8f925ff64da",
+      "firstName": "James",
+      "lastName": "Smith",
+      "email": "jamessmith@example.com",
+      "phone": "123-234-345"
+    },
+    {
+      "id": "a8c298ad-e4e8-44ef-9a71-137a52ce9bdc",
+      "firstName": "Michael",
+      "lastName": "Hernandez",
+      "email": "michaelhernandez@example.com",
+      "phone": "8890492-940"
+    },
+    {
+      "id": "367383a3-7875-49fa-bc13-764e499acaf8",
+      "firstName": "Maria",
+      "lastName": "Garcia",
+      "email": "mariagarcia@example.com",
+      "phone": "882-891-787"
+    },
+    {
+      "id": "bc0d9897-9512-444e-a90c-3bd79a1eec2c",
+      "firstName": "David",
+      "lastName": "Williams",
+      "email": "davidwilliams@example.com",
+      "phone": "876-771-891"
+    },
+    {
+      "id": "5496b55a-d154-404b-ad71-da336ffbcd1d",
+      "firstName": "Clark",
+      "lastName": "Samuel",
+      "email": "clarksamuel@example.com",
+      "phone": "998-660-234"
+    },
+    {
+      "id": "d3fefde0-92e2-11eb-9d27-c52ed2f84409",
+      "firstName": "aaa",
+      "lastName": "bbb",
+      "email": "ccc",
+      "phone": "dd"
+    },
+    {
+      "id": "14f16d10-92e3-11eb-909b-6bb78fe1caa3",
+      "firstName": "one",
+      "lastName": "two",
+      "email": "three",
+      "phone": "four"
+    }
+  ]
+}
